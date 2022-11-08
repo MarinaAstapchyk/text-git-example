@@ -5,8 +5,9 @@
 * One
 * Two ___italic___
 * Some item
-* Like 4 item
-* New item
+* 4 item
+* 5 item
+* 6 item
 ---
 
 ## Subtitle 2
